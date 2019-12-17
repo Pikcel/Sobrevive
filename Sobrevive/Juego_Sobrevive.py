@@ -2,7 +2,7 @@
 #Juego de obstáculos hecho con Pygame
 
 #LIBRERÍAS UTILIZADAS
-import paho.mqtt.client as mqtt    #Librería para establecer conexión con un broker.
+#import paho.mqtt.client as mqtt    #Librería para establecer conexión con un broker.
 import pygame   #Librería para poder utilizar Pygame.
 import random   #Librería para recibir valores aleatorios (útil al momento de posicionar obstáculos).
 
